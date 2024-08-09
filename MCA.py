@@ -1,0 +1,1 @@
+print('Dg-Inspire')s
