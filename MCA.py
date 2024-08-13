@@ -1,1 +1,1 @@
-print('Dg-Inspire')s
+print('Dg-Inspire')
